@@ -1,41 +1,44 @@
-# `Jordin Hernandez`
+╔══════════════════════════════════════╗
+║ JORDIN HERNANDEZ ║
+╚══════════════════════════════════════╝
 
+💻 IT Student ·
 ### 💻 Information Technology Student | 🌐 Networking | ☁️ Cloud | ⚙️ DevOps
 
 ---
 
-Soy estudiante de **Tecnologías de Información** en Costa Rica, interesado en el desarrollo de software, redes, servidores y tecnologías de infraestructura.
+I am an **Information Technology student** from Costa Rica, interested in software development, networking, servers, and infrastructure technologies.
 
-Actualmente estoy fortaleciendo mis conocimientos mediante proyectos académicos y personales, buscando combinar **programación + redes + administración de sistemas**.
+I am currently strengthening my skills through academic and personal projects, aiming to combine **programming + networking + systems administration**.
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-* 🎓 Estudiante de **Tecnologías de Información**
-* 💻 Técnico Medio en **Desarrollo Web**
-* 🌐 Interesado en **Redes, Cloud, DevOps y Backend**
-* 🖥️ Experiencia práctica con **Windows Server, Linux, Active Directory y redes Cisco**
-* ☁️ Explorando **Microsoft Azure**
-* 🔐 Interesado en **seguridad, autenticación y administración de infraestructura**
-* 🧩 Me gusta aprender construyendo proyectos prácticos
+* 🎓 **Information Technology** student
+* 💻 Technical Diploma in **Web Development**
+* 🌐 Interested in **Networking, Cloud, DevOps, and Backend**
+* 🖥️ Practical experience with **Windows Server, Linux, Active Directory, and Cisco networking**
+* ☁️ Exploring **Microsoft Azure**
+* 🔐 Interested in **security, authentication, and infrastructure administration**
+* 🧩 I enjoy learning by building practical projects
 * 🇨🇷 Costa Rica
 
-## 🛠️ Tecnologías
+## 🛠️ Technologies
 
-### Lenguajes
+### Languages
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### Desarrollo Web
+### Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-### Infraestructura y Redes
+### Infrastructure & Networking
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
@@ -46,22 +49,25 @@ Actualmente estoy fortaleciendo mis conocimientos mediante proyectos académicos
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 
-## 📚 Actualmente aprendiendo
+## 📚 Currently Learning
 
-* 🔀 **OSPF y routing avanzado**
-* 🌐 **Diseño y administración de redes**
+* 🔀 **OSPF and advanced routing**
+* 🌐 **Network design and administration**
 * ☁️ **Microsoft Azure**
-* ⚙️ **DevOps y automatización**
-* 🐳 **Docker y Docker Compose**
-* 🔐 **Active Directory, NPS y RADIUS**
-* 🤖 **Integración de IA y sistemas RAG**
-* 🐘 **Bases de datos y APIs**
+* ⚙️ **DevOps and automation**
+* 🐳 **Docker and Docker Compose**
+* 🔐 **Active Directory, NPS, and RADIUS**
+* 🤖 **AI integration and RAG systems**
+* 🐘 **Databases and APIs**
 
-## 🎯 Objetivos
+## 🎯 Goals
 
-Mi objetivo es seguir desarrollándome profesionalmente en el área de **TI**, adquiriendo experiencia tanto en desarrollo como en infraestructura.
+My goal is to continue developing professionally in the **IT field**, gaining experience in both software development and infrastructure.
 
-A largo plazo, me interesa especializarme en áreas relacionadas con:
+In the long term, I am interested in specializing in areas related to:
+
+**Cloud ☁️ · DevOps ⚙️ · Networking 🌐 · Backend 💻 · Infrastructure 🖥️**
+
 
 **Cloud ☁️ · DevOps ⚙️ · Redes 🌐 · Backend 💻 · Infraestructura 🖥️**
 
