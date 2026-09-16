@@ -1,6 +1,8 @@
-# Hola, soy Jordin
+# `Jordin Hernandez`
 
-💻 **Estudiante de Tecnologías de Información | Desarrollo Web | Redes**
+### 💻 Information Technology Student | 🌐 Networking | ☁️ Cloud | ⚙️ DevOps
+
+---
 
 Soy estudiante de **Tecnologías de Información** en Costa Rica, interesado en el desarrollo de software, redes, servidores y tecnologías de infraestructura.
 
