@@ -54,34 +54,6 @@ Actualmente estoy fortaleciendo mis conocimientos mediante proyectos académicos
 * 🤖 **Integración de IA y sistemas RAG**
 * 🐘 **Bases de datos y APIs**
 
-## 🔨 Proyectos
-
-### 🛒 Sistema de Gestión de Inventario
-
-Sistema web para administrar productos, categorías, clientes y ventas.
-
-**Tecnologías:** PHP · MySQL · JavaScript · Bootstrap
-
-### 🤖 Chatbot Universitario
-
-Proyecto orientado a la consulta de información universitaria utilizando inteligencia artificial, RAG y una arquitectura basada en contenedores.
-
-**Tecnologías:** React · Node.js · Flowise · Ollama · PostgreSQL · pgvector · Docker
-
-### 🌐 Infraestructura de Red
-
-Prácticas y proyectos de redes utilizando tecnologías y conceptos como:
-
-* Cisco IOS
-* VLANs
-* VLSM
-* OSPF
-* HSRP
-* LACP
-* NAT
-* Routing
-* Servicios de red
-
 ## 🎯 Objetivos
 
 Mi objetivo es seguir desarrollándome profesionalmente en el área de **TI**, adquiriendo experiencia tanto en desarrollo como en infraestructura.
