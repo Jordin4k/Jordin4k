@@ -7,7 +7,7 @@
 <p align="center">
   💻 Information Technology Student · 🌐 Networking · ☁️ Cloud · ⚙️ DevOps
 </p>
----
+
 
 I am an **Information Technology student** from Costa Rica, interested in software development, networking, servers, and infrastructure technologies.
 
