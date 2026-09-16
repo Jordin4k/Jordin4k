@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jordin
+# Hola, soy Jordin
 
 💻 **Estudiante de Tecnologías de Información | Desarrollo Web | Redes**
 
