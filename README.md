@@ -71,9 +71,4 @@ In the long term, I am interested in specializing in areas related to:
 
 
 
-**Cloud ☁️ · DevOps ⚙️ · Redes 🌐 · Backend 💻 · Infraestructura 🖥️**
 
----
-
-
-> 💡 *"Aprendiendo, construyendo y mejorando un proyecto a la vez."*
