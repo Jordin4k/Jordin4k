@@ -50,6 +50,11 @@ I am currently strengthening my skills through academic and personal projects, a
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 
+### Virtualization
+
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
 ## 📚 Currently Learning
 
 * 🔀 **OSPF and advanced routing**
