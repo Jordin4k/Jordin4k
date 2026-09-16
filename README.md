@@ -1,8 +1,4 @@
-╔══════════════════════════════════════╗
-║ JORDIN HERNANDEZ ║
-╚══════════════════════════════════════╝
-
-💻 IT Student ·
+Jordin Hernandez
 ### 💻 Information Technology Student | 🌐 Networking | ☁️ Cloud | ⚙️ DevOps
 
 ---
