@@ -92,17 +92,5 @@ A largo plazo, me interesa especializarme en áreas relacionadas con:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark" />
-</p>
-
----
-
 
 > 💡 *"Aprendiendo, construyendo y mejorando un proyecto a la vez."*
