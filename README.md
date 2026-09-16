@@ -1,12 +1,84 @@
-<p align="center">
-  <img src="https://TU-URL/banner.gif" alt="Jordin Hernandez">
-</p>
+<div align="center">
 
-<h1 align="center">Jordin Hernandez</h1>
+<svg width="100%" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
 
-<p align="center">
-  💻 Information Technology Student · 🌐 Networking · ☁️ Cloud · ⚙️ DevOps
-</p>
+  <defs>
+    <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+
+```
+<linearGradient id="text" x1="0%" y1="0%" x2="100%" y2="0%">
+  <stop offset="0%" stop-color="#38bdf8"/>
+  <stop offset="50%" stop-color="#818cf8"/>
+  <stop offset="100%" stop-color="#c084fc"/>
+</linearGradient>
+```
+
+  </defs>
+
+  <!-- Background -->
+
+  <rect width="900" height="220" rx="20" fill="url(#background)"/>
+
+  <!-- Network lines -->
+
+  <g stroke="#334155" stroke-width="1" opacity="0.7">
+    <line x1="50" y1="40" x2="180" y2="90"/>
+    <line x1="180" y1="90" x2="90" y2="170"/>
+    <line x1="180" y1="90" x2="300" y2="45"/>
+    <line x1="720" y1="45" x2="820" y2="90"/>
+    <line x1="820" y1="90" x2="750" y2="175"/>
+    <line x1="720" y1="45" x2="610" y2="90"/>
+    <line x1="610" y1="90" x2="750" y2="175"/>
+  </g>
+
+  <!-- Network nodes -->
+
+  <g fill="#38bdf8">
+    <circle cx="50" cy="40" r="5"/>
+    <circle cx="180" cy="90" r="5"/>
+    <circle cx="90" cy="170" r="5"/>
+    <circle cx="300" cy="45" r="5"/>
+    <circle cx="720" cy="45" r="5"/>
+    <circle cx="820" cy="90" r="5"/>
+    <circle cx="750" cy="175" r="5"/>
+    <circle cx="610" cy="90" r="5"/>
+  </g>
+
+  <!-- Main title -->
+
+<text x="450" y="100"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="42"
+     font-weight="700"
+     fill="url(#text)">
+Jordin Hernandez </text>
+
+  <!-- Subtitle -->
+
+<text x="450" y="135"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17"
+     fill="#cbd5e1">
+Information Technology Student </text>
+
+  <!-- Skills -->
+
+<text x="450" y="170"
+     text-anchor="middle"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="14"
+     fill="#64748b">
+Networking • Cloud • DevOps • Backend </text>
+
+</svg>
+
+</div>
 
 
 I am an **Information Technology student** from Costa Rica, interested in software development, networking, servers, and infrastructure technologies.
